@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ethernal12
-- 👀 I’m interested in ... Dapp development
-- 🌱 I’m currently learning ... reactjs, solidity
+- 👋 Hi, I’m Danijel
+- 👀 I’m interested in ... Dapp development, full stack development
+- 🌱 I’m currently learning ... reactjs, solidity, javascript, truffle 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
