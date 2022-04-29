@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danijel
 - 👀 I’m interested in ... Dapp development, full stack development
-- 🌱 I’m currently learning ... reactjs, solidity, javascript, truffle, selenium, postman 
+- 🌱 I’m currently learning ... reactjs, solidity, javascript, truffle, selenium, postman, REST APIs
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
